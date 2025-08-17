@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Swapnanil Nayak  
+# 👋 Hi there, I'm Nayak7
 
 🎓 **Electronics and Communication Engineering (B.Tech, Minor in AI & ML)** @ VIT-AP (2025)  
 💡 Exploring **IoT, AI/ML, Embedded Systems, and Data Analytics**  
