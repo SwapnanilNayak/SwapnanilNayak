@@ -8,8 +8,8 @@
 
 ## 🔗 Connect with Me
 [![Email](https://img.shields.io/badge/Email-swapnanilnayak44%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:swapnanilnayak44@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge&logo=vercel)](YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swapnanilnayak7/)
+
 
 ---
 
